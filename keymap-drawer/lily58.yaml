@@ -61,7 +61,7 @@ layers:
   - {t: ▽, type: trans}
   - .
   - ','
-  - BACKSPACE
+  - ''
   raise:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
